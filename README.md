@@ -1,2 +1,16 @@
 # audacity-effects
 audacity effects
+
+466c79277ed5b09eb3e968826106f1431df28aada1d9e903fc914a2e3155ab71  Blazio SA-10.zip
+00916aab794ca2e1f0dd30d606ef23ced10bfeb65310814af98d12299d54c589  BOREALIS-LE-MuseHub 1.0.1 Installer.zip
+143b0205e2e3ae5d61974088bb6c49818134bc086e5dd246ce527d1d0ff16d05  Graillon-3-FREE-3.1.1.zip
+a1b457c1eb500dec6a5d5da9fc1b189fa883f2514fa9ec68ea921dc17d7bfde0  LiftFX Plug-In (Muse Hub) 1.0.13.zip
+689ba46dc13c08158f5384dfd4827c28b6b3a6dba7e10b3b66aa66ead29033ac  Mantra_v1.1.0_MacOS.zip
+8d0df32b33018519d0a3638d6451045bff81b0c8e25aec3bdf6ccea7b7adcd38  MuseFX.zip
+7421eac6b16dedac454438ccfc4f8a68e4a08142f52b4f59af60bea4a3255fa6  neutone_fx-arm.zip
+4552160ed69182b15c5380060d083351905beb5b7388634570d3dc75d71ab574  OCS-45 1.1.5.zip
+5c8b00edd9dc422698452b17a92875957a8d78dc7db4acb36d1783972157c38c  Pancz 1.1.7.zip
+baf2bf345c66112c647fea154829e0f2e7a4f6541d77ac7db90529e4d5bb91f7  Placeit.zip
+9b66d43abab7c7fb0302cab64e95f0c97a4e6c4568c2d81fcbb5204d950dfd31  ShapeIt 1.0.11.zip
+4ddd55773ed7e7e9390a70f89478b8d483d2845281102a831dbb3b2d5ae6d7f6  StereoLab Plug-In (Muse Hub) 1.0.2.zip
+3d24e14f1320cedb226310eec9aa5c8da25db7f4a6e5df2b997656d492537f62  Uberloud Plug-In (Muse Hub) 1.2.2.zip
