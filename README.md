@@ -1,6 +1,7 @@
 # audacity-effects
-audacity effects
 
+audacity effects
+```
 466c79277ed5b09eb3e968826106f1431df28aada1d9e903fc914a2e3155ab71  Blazio SA-10.zip
 00916aab794ca2e1f0dd30d606ef23ced10bfeb65310814af98d12299d54c589  BOREALIS-LE-MuseHub 1.0.1 Installer.zip
 143b0205e2e3ae5d61974088bb6c49818134bc086e5dd246ce527d1d0ff16d05  Graillon-3-FREE-3.1.1.zip
@@ -14,3 +15,4 @@ baf2bf345c66112c647fea154829e0f2e7a4f6541d77ac7db90529e4d5bb91f7  Placeit.zip
 9b66d43abab7c7fb0302cab64e95f0c97a4e6c4568c2d81fcbb5204d950dfd31  ShapeIt 1.0.11.zip
 4ddd55773ed7e7e9390a70f89478b8d483d2845281102a831dbb3b2d5ae6d7f6  StereoLab Plug-In (Muse Hub) 1.0.2.zip
 3d24e14f1320cedb226310eec9aa5c8da25db7f4a6e5df2b997656d492537f62  Uberloud Plug-In (Muse Hub) 1.2.2.zip
+```
